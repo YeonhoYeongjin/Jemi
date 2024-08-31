@@ -1,2 +1,2 @@
 # Jemi
-Jemi Web
+순수재미 프로젝트
